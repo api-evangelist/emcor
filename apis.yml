@@ -9,7 +9,7 @@ description: >-
   green building solutions. This repository captures the public APIs, developer
   resources, and machine-readable artifacts associated with EMCOR Group.
 image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
-type: Contract
+kind: contract
 tags:
   - Fortune 500
   - Construction
