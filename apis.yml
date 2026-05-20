@@ -25,6 +25,8 @@ access: 3rd-Party
 position: Consuming
 apis: []
 common:
+  - type: LinkedIn
+    url: https://www.linkedin.com/company/emcor-group-inc
   - name: Website
     url: https://www.emcorgroup.com/
     type: Website
