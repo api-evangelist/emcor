@@ -51,6 +51,8 @@ common:
   - name: Contact
     url: https://www.emcorgroup.com/contact/
     type: ContactUs
+  - type: LLMsTxt
+    url: https://emcorgroup.com/llms.txt
 maintainers:
   - FN: Kin Lane
     email: kin@apievangelist.com
