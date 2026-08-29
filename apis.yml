@@ -8,6 +8,17 @@ description: >-
   construction, hospital support services, energy efficiency programs, and
   green building solutions. This repository captures the public APIs, developer
   resources, and machine-readable artifacts associated with EMCOR Group.
+deliveryModel:
+  model: unknown
+  open_source: false
+  commercial: false
+  callable_host: false
+  label: Delivery model not determined — needs a product licence on record
+  confidence: low
+  source:
+  - none
+  generated: '2026-08-28'
+  method: derived
 accessModel:
   pricing: unknown
   onboarding: unknown
