@@ -1,7 +1,9 @@
 ---
 title: This construction and engineering firm is set become a key ...
 url: https://www.valens-research.com/investor-essentials-daily/this-construction-and-engineering-firm-is-set-become-a-key-player-as-hyperscalers-look-to-get-the-most-out-of-their-data-centers/
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"EMCOR Group" press release artificial intelligence'
 position: 4
 source: serpapi-google

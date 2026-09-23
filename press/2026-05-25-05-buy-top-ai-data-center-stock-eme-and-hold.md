@@ -1,7 +1,9 @@
 ---
 title: Buy Top AI Data Center Stock EME and Hold
 url: https://finance.yahoo.com/news/buy-top-ai-data-center-120000615.html
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"EMCOR Group" press release artificial intelligence'
 position: 5
 source: serpapi-google

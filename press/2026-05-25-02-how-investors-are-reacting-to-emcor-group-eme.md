@@ -1,7 +1,9 @@
 ---
 title: How Investors Are Reacting To EMCOR Group (EME) ...
 url: https://finance.yahoo.com/markets/stocks/articles/investors-reacting-emcor-group-eme-070748593.html
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"EMCOR Group" press release artificial intelligence'
 position: 2
 source: serpapi-google
